@@ -48,8 +48,8 @@ The dataset contains real estate listings in Buenos Aires and includes:
 3. Feature Engineering.
    
 4. Model Building
-   - Trained multiple regression models: Linear Regression, Random Forest, XGBoost, etc.
-   - Used RMSE and R² score for evaluation.
+   - Trained regression models: Linear Regression.
+   - Used mean absolute error  score for evaluation.
 
 5. Prediction* 
    - Built a pipeline to input house features and predict the price.
