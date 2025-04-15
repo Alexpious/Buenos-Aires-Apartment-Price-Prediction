@@ -21,6 +21,6 @@ class PricePredictionForm(forms.ModelForm):
                 'placeholder': 'Enter longitude',
             }),
             'neighborhood': forms.Select(attrs={
-                'class': 'form-control',
+                'class': 'option',
             }),
         }
