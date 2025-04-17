@@ -42,7 +42,7 @@ The dataset consists of real estate listings from **Buenos Aires** and includes 
 
 - Apartments only (`property_type == "apartment"`)  
 - Properties located in **Capital Federal**  
-- Price range capped at **$500,000**  
+- Price range capped at **$400,000**  
 - Removed outliers based on surface area  
 - Dropped high-cardinality and highly correlated features  
 
@@ -71,7 +71,6 @@ The dataset consists of real estate listings from **Buenos Aires** and includes 
 
 ### 4. Model Building
 - Trained and evaluated regression models, including:
-  - **Linear Regression** (baseline)
   - **Ridge Regression** (final model)
 - Model performance evaluated using **Mean Absolute Error (MAE)**
 
@@ -96,7 +95,7 @@ git clone https://github.com/your-username/buenos-aires-price-prediction.git
 cd buenos-aires-price-prediction
 ```
 
-### 2. Set Up a Virtual Environment (Optional but Recommended)
+### 2. install requirements.txt 
 
 ```bash
 python -m venv venv
