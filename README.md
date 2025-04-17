@@ -98,31 +98,9 @@ cd buenos-aires-price-prediction
 ### 2. install requirements.txt 
 
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+python pip install requirements.txt
 
 ```
-
-### 3. Install Dependencies
-
-Install the required Python libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-> If `requirements.txt` is not available, manually install the core packages:
-> `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `jupyter`
-
-### 4. Run the Jupyter Notebook
-
-Launch the notebook environment:
-
-```bash
-jupyter notebook
-```
-
-Then open the main notebook (e.g., `buenos_aires_price_prediction.ipynb`) to explore the data, run the analysis, and make predictions.
 
 
 
