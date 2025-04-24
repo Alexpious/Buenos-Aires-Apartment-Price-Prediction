@@ -102,6 +102,8 @@ python pip install requirements.txt
 
 ```
 
+###UI VIEW ON WEB
+![Ridge Regression Model for Apartment Price Prediction](5787421732636838159.jpg)
 
 
 
