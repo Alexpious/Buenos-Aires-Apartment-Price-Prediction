@@ -91,7 +91,7 @@ Follow these steps to run the project locally on your machine:
 Download the project from GitHub:
 
 ```bash
-git clone https://github.com/your-username/buenos-aires-price-prediction.git
+git clone https://github.com/alexpious/buenos-aires-price-prediction.git
 cd buenos-aires-price-prediction
 ```
 
