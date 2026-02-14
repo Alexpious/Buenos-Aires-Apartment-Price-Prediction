@@ -98,7 +98,7 @@ cd buenos-aires-price-prediction
 ### 2. install requirements.txt 
 
 ```bash
-python pip install requirements.txt
+pip3 install requirements.txt
 
 ```
 
